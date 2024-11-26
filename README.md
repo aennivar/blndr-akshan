@@ -5,3 +5,6 @@
 
 sheets
 (https://leagueoflegends.fandom.com/wiki/Akshan/Development#Gallery)
+
+3d model
+(https://modelviewer.lol/model-viewer?id=166000)
