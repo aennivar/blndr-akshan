@@ -8,3 +8,8 @@ sheets
 
 3d model
 (https://modelviewer.lol/model-viewer?id=166000)
+
+----------
+
+mão
+(https://in.pinterest.com/pin/190347521745858613/)
