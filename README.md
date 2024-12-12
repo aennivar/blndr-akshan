@@ -9,6 +9,9 @@ sheets
 3d model
 (https://modelviewer.lol/model-viewer?id=166000)
 
+body topology
+(https://cmuanimation.weebly.com/topology-referenceguide.html)
+
 ----------
 
 mão
@@ -23,3 +26,5 @@ imagem frnt transform
 
  rotation:
   x: 90º
+
+
