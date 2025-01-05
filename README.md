@@ -20,9 +20,9 @@ mão
 
 ---
 
-imagem frnt transform
- location:
-  x: 1.8361 m
+referência torso topologia
+(https://sketchfab.com/3d-models/male-torso-study-f162bf3264704f3fa761efe9844a1aef)
+(https://sketchfab.com/3d-models/male-base-mesh-b50f25f4184247bd8c76c2767ff39585)
 
  rotation:
   x: 90º
