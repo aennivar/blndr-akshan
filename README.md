@@ -27,3 +27,10 @@ referência torso topologia
 (https://sketchfab.com/3d-models/male-base-mesh-b50f25f4184247bd8c76c2767ff39585)
 
 (https://www.artstation.com/artwork/klPeYK)
+
+---
+
+ombros
+(http://wiki.polycount.com/wiki/ShoulderTopology)
+
+(https://www.artstation.com/blogs/addelaida/1lWP/week-6)
