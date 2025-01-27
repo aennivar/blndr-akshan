@@ -12,13 +12,6 @@ sheets
 body topology
 (https://cmuanimation.weebly.com/topology-referenceguide.html)
 
-----------
-
-mão
-(https://in.pinterest.com/pin/190347521745858613/)
-(https://in.pinterest.com/pin/370702613060530515/)
-sketchfab (https://sketchfab.com/models/de4f151a05494152b4c213ccafc4f646/embed)
-
 ---
 
 referência torso topologia
@@ -29,8 +22,5 @@ referência torso topologia
 (https://www.artstation.com/artwork/klPeYK)
 
 ---
-
-ombros
-(http://wiki.polycount.com/wiki/ShoulderTopology)
-
-(https://www.artstation.com/blogs/addelaida/1lWP/week-6)
+cabelo
+(https://www.youtube.com/watch?v=BqWYgrXw7Jk)
